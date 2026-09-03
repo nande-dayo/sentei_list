@@ -1,7 +1,7 @@
 import math
 import pandas as pd
 import streamlit as st
-from streamlit_mic_recorder import speech_to_text
+
 
 # スマホ向けに画面幅を調整
 st.set_page_config(
